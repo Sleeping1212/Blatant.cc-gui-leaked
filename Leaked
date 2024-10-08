@@ -1,0 +1,167 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/6HMp1NDn"))()
+local Window = Library:CreateWindow("blatant.cc", Vector2.new(430, 310), Enum.KeyCode.P)
+    local AimingTab = Window:CreateTab("Locks")
+    local testSection = AimingTab:CreateSector("  Camlocks ", "left")
+    local bladLockPrediction = 0
+   testSection:AddButton("Blatant.cc cam", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastefy.app/G4HT0DNA/raw"))()
+     end) 
+   testSection:AddButton("blatant.cc cam 2", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastefy.app/viTrv4gm/raw"))()
+     end) 
+testSection:AddButton("Blatant cam 3", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastefy.app/rDiFyn2c/raw"))()
+     end) 
+testSection:AddButton("Blatant cam 4", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastebin.com/raw/Twi3zC1p", true))()
+     end) 
+testSection:AddButton("Blatant.cc cam 5", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastebin.com/raw/eUXA4zV5", true))()
+     end) 
+testSection:AddButton("blatant.cc cam 6", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastefy.app/jZTwJGcG/raw", true))()
+     end)
+
+local testSection = AimingTab:CreateSector(" Random", "right")
+    local bladLockPrediction = 0
+    testSection:AddButton("8nzrqs bullet tp", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastebin.com/raw/ULZrjCTV"))()
+     end)
+
+local testSection = AimingTab:CreateSector("   silent aim ", "right")
+    local bladLockPrediction = 0
+    testSection:AddButton("zenbladis silent", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastefy.app/HNLNSD1E/raw"))()
+     end) 
+  testSection:AddButton("8nzrqs silent", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastebin.com/raw/fvnjeUxV"))()
+        end) 
+testSection:AddButton("blatant.cc silent with cam", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastefy.app/Itk1RbsF/raw"))()
+        end) testSection:AddButton("blatant.cc silent", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastefy.app/6FoRQ3b1/raw"))()
+        end) testSection:AddButton("blatant.cc silent 2", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastefy.app/w9XMpVKJ/raw"))()
+        end)
+     local AimingTab = Window:CreateTab("misc")
+    local testSection = AimingTab:CreateSector(" Useful stuff (2)", "right")
+
+testSection:AddButton("Macro shift", function(IhateGayPeople)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproootest/Permanent-Shift-Lock-Alt/alt/PermShiftlockAlt'))()
+     end) 
+testSection:AddButton("Trash talk (q tool)", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastebin.com/raw/Ux74dpcY", true))()
+    end)
+ testSection:AddButton(" headless and korblox ", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastebin.com/raw/zCJc1WZC"))()
+     end) 
+testSection:AddButton("Resolver", function(IhateGayPeople)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FeliciaXxxTop/FuckRoblox/main/ResolverV1.lua"))();
+     end)
+testSection:AddButton("Anti Vf Mods", function(IhateGayPeople)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jeunaisalive/antimodvf/main/beta-v0"))()
+      end)
+testSection:AddButton("stretch res", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastefy.app/wZ2S5oxr/raw"))()
+     end) 
+testSection:AddButton("shaders", function(IhateGayPeople)
+loadstring(game:HttpGet(('https://pastefy.app/xXkUxA0P/raw'),true))()
+     end)
+testSection:AddButton(" sets generator do /console ", function(IhateGayPeople)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/meowguy1/Meowguylastsetgen/main/Byebyeguys"))()
+     end) 
+testSection:AddButton("infinite jumps", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastebin.com/raw/9w4qUCYe", true))()
+      end) 
+testSection:AddButton("farm stomps (vf only)", function(IhateGayPeople)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/plah911/whitelister/main/farmstompslikeamonkey"))();
+      end) 
+   testSection:AddButton("auto reload", function(IhateGayPeople)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/acsun124/pluh-s-properties/main/Protected_3489994584822399.txt"))();
+      end)
+ testSection:AddButton("Fe Emotes", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastebin.com/raw/eCpipCTH"))()
+     end)
+
+local testSection = AimingTab:CreateSector("  Useful stuff ", "Left")
+
+testSection:AddButton("rightclick", function(IhateGayPeople)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DHBCommunity/DHBOfficialScript/main/RightClick"))()
+     end) 
+testSection:AddButton("anti-fling", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastebin.com/raw/L5SphSrU"))()
+     end) testSection:AddButton("Keyboard", function(IhateGayPeople)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+     end) 
+testSection:AddButton("fly v1", function(IhateGayPeople)
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Fly-Gui-18103"))()
+     end)      testSection:AddButton("animation", function(IhateGayPeople)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Animation-Hub/main/Animation%20Gui", true))()
+     end) 
+testSection:AddButton("Esp", function(IhateGayPeople)
+loadstring(game:HttpGet("https://pastebin.com/raw/g216nQ7d"))()
+     end)
+ testSection:AddButton("adonis anti", function(IhateGayPeople)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/main/Source.lua",true))()
+     end)
+  testSection:AddButton("macro", function(IhateGayPeople)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DHBCommunity/DHBOfficialScript/main/macromobbyballigusapo"))()
+     end) 
+  testSection:AddButton("tpwalk", function(IhateGayPeople)
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/TheRealXORA/Roblox/Scripts/Tpwalk%20V4%20%5B%20REVAMP%20%5D.lua", true))()
+     end)
+   testSection:AddButton("anti lock", function(IhateGayPeople)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/wenny69420/KirbswareScripts/main/MobileV3'))()
+     end)
+     testSection:AddButton("fps boost", function(IhateGayPeople)
+local a = tick()
+if not game:IsLoaded() then
+    game.Loaded:Wait()
+end
+wait(.1)
+sethiddenproperty(game.Lighting, "Technology", 2)
+sethiddenproperty(workspace:FindFirstChildOfClass("Terrain"), "Decoration", false)
+settings().Rendering.QualityLevel = 1
+setsimulationradius(0,0)
+game.Lighting.GlobalShadows = false
+game.Lighting.FogEnd = 9e9
+workspace:FindFirstChildOfClass("Terrain").Elasticity = 0
+for b, c in pairs(game:GetDescendants()) do
+    task.spawn(
+        function()
+            wait()
+            if c:IsA("DataModelMesh") then
+                sethiddenproperty(c, "LODX", Enum.LevelOfDetailSetting.Low)
+                sethiddenproperty(c, "LODY", Enum.LevelOfDetailSetting.Low)
+                c.CollisionFidelity = "Hull"
+            elseif c:IsA("UnionOperation") then
+                c.CollisionFidelity = "Hull"
+            elseif c:IsA("Model") then
+                sethiddenproperty(c, "LevelOfDetail", 1)
+            elseif c:IsA("BasePart") then
+                c.Reflectance = 0
+                c.CastShadow = false
+            end
+        end
+    )
+end
+for d, e in pairs(game.Lighting:GetChildren()) do
+    if e:IsA("PostEffect") then
+        e.Enabled = false
+    end
+end
+warn("Low graphics loaded! (" .. math.floor(tick() - a) .. "s)")
+     end) 
+local AimingTab = Window:CreateTab("Credits")
+          
+  local testSection = AimingTab:CreateSector("8nzrq (best coder)", "left") 
+
+local testSection = AimingTab:CreateSector("zenbladi (2nd best coder)", "right") 
+
+local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
+local Notify = AkaliNotif.Notify;
+Notify({
+Description = "Made by 8nzrq x Zenbladi, Subscribe to 8nzrq x Zenbladi";
+Title = "discord.gg/zAX6qyU2dg";
+Duration = 10; 
+})
